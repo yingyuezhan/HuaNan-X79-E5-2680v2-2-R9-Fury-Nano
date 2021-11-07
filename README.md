@@ -4,9 +4,13 @@
 硬件配置
 
 ◆ 处理器：Intel Xeon E5 2-2680v2
+
 ◆ 主  板：华南 X79-4D双路
+
 ◆ 内  存:
+
 ◆ 显  卡：AMD Re R9 Fury Nano
+
 ◆ 显示器：View
 ◆ 声  卡：Realtek ALC 662
 ◆ 网  卡：
